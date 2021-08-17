@@ -77,3 +77,8 @@ wrapt==1.12.1
 - Machine will look for **Intent** and **Entity** in the sentence
 - Intent could be *get_news*, or something of that nature
 - Entity is *Today* (similar to a method argument)
+
+**Lemmetization**
+- Converting words into the *lemma* form
+    - Purpose is to reduce all canonical words (play, playing, played, etc.)
+- We can reduce the number of total words in our vocabulary
